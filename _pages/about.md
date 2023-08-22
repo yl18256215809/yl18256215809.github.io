@@ -1,4 +1,3 @@
----
 permalink: /
 title: ""
 excerpt: ""
@@ -6,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -25,100 +24,77 @@ redirect_from:
 ## 安徽财经大学
 - 经济学，学士，2018.09-2022.6
 
-# 📚 科研经历 
+# 📚 研究经历
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 研究兴趣：中国特色社会主义政治经济学；发展经济学
 
-[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/9755128)
+## 已发表（录用）论文
+- 廖信林，**杨正源**.要素禀赋差异、营商环境与中国对外直接投资——来自“一带一路”沿线国家的经验证据. **财贸研究**（CSSCI 北大核心）（已录用）<br>
 
-**Zhidi Lin**, Lei Cheng, Feng Yin, Lexi Xu, Shuguang Cui
-
-[**Project**](https://ieeexplore.ieee.org/document/10095784) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
-- We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
-- The detection accuracy and the false alarm rate are much lower than other effective methods.
-- We also reduced the computation complexity to $$O(n)$$.
-</div></div> -->
-
-## Journal
-- <b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
-Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
-
-- <b>[One-Class classifier based fault detection in distribution systems with varying penetration levels of distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/9141286>)</b><br>
-<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>IEEE Access</em>, vol. 8, pp. 130023-130035, July 2020. <br>
+- 廖信林，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. 华东经济管理，2021(6)：22-30.（CSSCI，北大核心，**《华东经济管理》2021年度“优秀论文”，中国知网学术精要高PCSI、高被引、高下载论文，被引达102次）**
+ <br>
   
-- <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://www.mdpi.com/1996-1073/13/1/275>)</b><br>
-<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
+- 周文，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. **西安财经大学学报**，2023(3)：15-26.（CSSCI扩展版）
+ <br>
+-  Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. *International Journal of Climate Change Strategies and Management*.（JCR Q2，IF=3.6）
 
 
-## Conference
-- <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
-<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
+
+## 课题研究
+- 参与研究阐释党的二十大精神国家社科基金重大项目“构建高水平社会主义市场经济体制的目标与重点任务研究”（2023ZD01050122），负责人：周文。参与研究报告撰写。<br>
   
-- <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
-Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>The 25th International Conference on Information Fusion (FUSION)</em>, 2022. <br>
+- 参与教育部哲学社会科学研究重大课题攻关项目，“习近平经济思想的萌发、实践来源与重要特征研究”，2023，负责人：周文。参与研究报告撰写。<br>
 
-- <b>[Graph neural network for large-scale network localization](<https://ieeexplore.ieee.org/abstract/document/9414520>)  [[code]](<https://github.com/Yanzongzi/GNN-For-localization>)</b><br>
-Wenzhong Yan, Di Jin, <b>Zhidi Lin</b>, Feng Yin. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2021. <br>
+- 参与复旦大学人文社科传世经典，“政治经济学发展研究”，2023，负责人：周文。参与研究报告撰写。 <br>
 
-- <b>[An interpretable and sample efficient deep kernel for Gaussian process](<http://proceedings.mlr.press/v124/dai20a.html>)</b><br>
-Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shuguang Cui. <em> Conference on Uncertainty in Artificial Intelligence (UAI)</em>, 2020. <br>
+- 参与中信改革发展研究基金会一般项目，“国际比较视角下中国产业政策发展研究”，负责人：周文。参与研究报告撰写。 <br>
 
-- <b>[A flexible approach for human activity recognition based on broad learning system](<https://dl.acm.org/doi/abs/10.1145/3318299.3318318>)</b><br>
-<b>Zhidi Lin</b>, Haipeng Chen, Qi Yang, Xuemin Hong. <em> International Conference on Machine Learning and Computing (ICMLC)</em>, 2019. <br>
+- 主持国家级大学生创新创业重点领域支持计划项目，“数字时代下城乡融合作用机理、现实挑战与实现路径”，项目号：202110378001。<br>
+
+## 学术会议
+- 2022.11：江苏省研究生“数字化时代产业发展与创新”学术论坛（二等奖）
+- 2022.11：首届江西省研究生公共管理学术论坛（三等奖）
+- 2022.12：第一届山东省研究生财富管理学术论坛（一等奖）
+- 2022.12：第二届全国马克思主义理论学科学生《资本论》论坛（论文汇报）
+- 2022.12：第四届习近平党建重要论述研究论坛（论文汇报）
+- 2023.04：第三届全国高校马克思主义理论学科研究生中原论坛三等奖
+
+## 学术审稿
+担任 Economic Analysis and Policy(Q1), Frontiers Ecology and Evolution(Q2), Review of Economic Assessment等期刊的匿名审稿人
 
 
-- <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/document/8974949>)</b><br>
-<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Sustainable Power and Energy Conference, (iSPEC)</em>, 2019. <br>
 
-- <b>[One-class classifier based fault detection in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/8646526>)</b><br>
-<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, 2018. <br>
+# 🎖 竞赛与实践经历
+## 竞赛
+- 第八届全国大学生能源经济学术创新大赛国家特等奖
+- 第七届全国大学生物流设计大赛国家一等奖
+- 2021年美国大学生数学建模竞赛一等奖
+- 2019年全国高校商业精英挑战赛“国泰安杯”国家一等奖
+- 第六届/七届“互联网+”大学生创新创业大赛省级金奖、国家级铜奖
+- 第十届/十一届全国大学生市场调查与分析大赛国家三等奖
+- 第十二届全国大学生服务外包创新创业赛国家三等奖
+- 第十四届全国大学生节能减排社会实践与科技竞赛国家三等奖
+- 全国大学生服务外包创新创业大赛国家三等奖
+- 2021安徽省大学生统计建模大赛一等奖
+- 第十七届挑战杯红色专项省级一等奖
+- 安徽省红色文化学习与创意成果大赛一等奖
+- 2020年安徽省大学生国际贸易综合技能大赛省级一等奖
+- 2020年安徽省大学生金融投资创新大赛一等奖
 
-- <b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset](<https://ieeexplore.ieee.org/abstract/document/8641222>)</b><br>
-Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
-  
- (\* indicates equal contributions).<br>
+## 社会实践
+- 2021年长三角高校大学生重走革命路社会实践一等奖
+- 2020年安徽省暑期三下乡社会实践优秀调研报告一等奖
 
-# 🏫 Services
-* Journal Reviewer of [Signal Processing, Elsevier](https://www.journals.elsevier.com/signal-processing)
-* Conference Reviwer of ICML, NeurIPS, UAI, ICASSP, FUSION
 
-# 👨‍🏫 Teaching
-- Spring 2023: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Dongdong He**
-  
-- Fall 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Feng Yin**
-  
-- Summer 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Chuan Huang**
-  
-- Spring 2022: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
 
-- Fall 2021: Teaching Assistant, CUHK-Shenzhen. Graduate Course, CIE6133/MCE5919 Gaussian Process for Machine Learning and Signal Processing. **Instructor: Prof. Feng Yin**
 
-- Spring 2021: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
 
-- Fall 2020: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT3280 Probability Theory. **Instructor: Prof. Kenneth Shum**
 
-- Spring 2020: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, STA3010 Regression Analysis. **Instructor: Prof. Feng Yin**
 
-- Fall 2019: Teaching Assistant, CUHK-Shenzhen. Undegrad Course, MAT3280 Probability Theory. **Instructor: Prof. Kenneth Shum**
 
-- Spring 2017: Teaching Assistant, Xiamen University. Undegrad Course, Algorithm Design & Analysis. **Instructor: Prof. Defu Zhang**
 
-<!-- # 🎖 Honors and Awards
-- 2023.01: 2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**.
-- 2022.11: 2023 UESTC Excellent Graduates (**Top 5%**). 
-- 2022.10: UESTC Outstanding Student Candidates (**Top 1%**).
-- 2022.09: UESTC **Honor Research** Award.
-- 2022.02: World Mathematical Contest in Modeling (MCM), **Mertorious Winner Award**.
-- 2022.01: Assigned as an **IEEE Student Member**.
-- 2021.09: Chinese Mathcup Modeling Contest, **First Prize**.
-- 2021.12: Chinese College Students Math Contest, **First Prize**.
-- 2021.10: Outstanding Students Scholarship in UESTC (**Top 10%**).
 
-# 💬 Invited Talks
-- 2022.10: **The 6th UESTC Students Development Conference.**
-- 2022.04: **2022 UESTC Students Sharing Meeting on machine learning.**
- 
-# 💻 Internships
-- 2021.07 - 2021.08: **Big Data in Clouds Corporation**, Guiyang, China.
-- 2021.06 - 2021.07: **Xi'An Institute of Optics and Precision Mechanics of CAS**, Xi'an, China.  -->
+
+
+
+

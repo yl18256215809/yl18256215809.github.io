@@ -32,14 +32,13 @@ redirect_from:
 - 发展经济学
 
 ## 已发表（录用）论文
-- 廖信林，**杨正源**.要素禀赋差异、营商环境与中国对外直接投资——来自“一带一路”沿线国家的经验证据. **财贸研究**（CSSCI 北大核心）（已录用）<br>
+- 廖信林，**杨正源**.要素禀赋差异、营商环境与中国对外直接投资——来自“一带一路”沿线国家的经验证据. **财贸研究**（CSSCI 北大核心）（已录用）
 
 - 廖信林，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. 华东经济管理，2021(6)：22-30.（CSSCI，北大核心，**《华东经济管理》2021年度“优秀论文”，中国知网学术精要高PCSI、高被引、高下载论文，被引达102次）**
- <br>
+
   
 - 周文，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. **西安财经大学学报**，2023(3)：15-26.（CSSCI扩展版）
- <br>
- 
+
 - Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. *International Journal of Climate Change Strategies and Management*.（JCR Q2，IF=3.6）
 
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "杨正源"
-description              : "复旦大学"
+description              : "复旦大学硕士在读"
 repository               : "yzy-15951553760/yzy-15951553760.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "杨正源"
-  avatar           : 
+  avatar           : "images/favicon-32x32.png"
   bio              : 
   location         : "上海，中国"
   employer         :

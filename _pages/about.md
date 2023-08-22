@@ -17,6 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 教育经历
+
 ## 复旦大学
 - 马克思主义理论（中国特色社会主义政治经济学方向，硕士，2022.09至今
 - **导师**：周文，教育部“长江学者”特聘教授，复旦大学马克思主义经济学中国化研究中心主任
@@ -38,7 +39,8 @@ redirect_from:
   
 - 周文，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. **西安财经大学学报**，2023(3)：15-26.（CSSCI扩展版）
  <br>
--  Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. *International Journal of Climate Change Strategies and Management*.（JCR Q2，IF=3.6）
+ 
+- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. *International Journal of Climate Change Strategies and Management*.（JCR Q2，IF=3.6）
 
 
 

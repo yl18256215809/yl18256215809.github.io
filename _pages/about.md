@@ -62,7 +62,10 @@ redirect_from:
 - 2023.04：第三届全国高校马克思主义理论学科研究生中原论坛三等奖
 
 ## 学术审稿
-担任 Economic Analysis and Policy(Q1), Frontiers Ecology and Evolution(Q2), Review of Economic Assessment等期刊的匿名审稿人
+担任匿名审稿人：
+- Economic Analysis and Policy(Q1), 
+- Frontiers Ecology and Evolution(Q2), 
+- Review of Economic Assessment
 
 
 

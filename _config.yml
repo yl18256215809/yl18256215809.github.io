@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhidi LIN"
-description              : "PhD Candidate @ CUHK(SZ)"
-repository               : "zhidilin/zhidilin.github.io"
+title                    : "杨正源"
+description              : "复旦大学"
+repository               : "yzy-15951553760/yzy-15951553760.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhidi LIN"
-  avatar           : "images/profile.jpeg"
+  name             : "杨正源"
+  avatar           : 
   bio              : 
-  location         : "Shenzhen, China"
+  location         : "上海，中国"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8BmRXqMAAAAJ"
-  email            : "zhidilin@link.cuhk.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhidi-Lin"
+  googlescholar    : 
+  email            : "22210010057@m.fudan.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhidilin"
+  github           : "yzy-15951553760"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "zhidi-lin/" # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-6673-511X"
+  linkedin         : 
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 

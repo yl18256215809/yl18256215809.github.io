@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🎓 教育经历
+## 复旦大学
+- 马克思主义理论（中国特色社会主义政治经济学方向，硕士，2022.09至今
+- **导师**：周文，教育部“长江学者”特聘教授，复旦大学马克思主义经济学中国化研究中心主任
 
+## 安徽财经大学
+- 经济学，学士，2018.09-2022.6
 
-# 📚 Publications 
+# 📚 科研经历 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

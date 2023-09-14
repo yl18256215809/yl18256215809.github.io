@@ -43,7 +43,7 @@ redirect_from:
 
 - 廖信林，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. ***华东经济管理***，2021(6)：22-30.（**CSSCI，北大核心，中国知网学术精要高PCSI、高被引（131次）、高下载论文（10532次），2021年度“优秀论文”）**
   
-- 周文，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. ***西安财经大学学报***，2023(3)：15-26.（**CSSCI扩展版**）
+- 周文，**杨正源**. 高质量发展与共同富裕：理论逻辑和现实路径. ***西安财经大学学报***，2023(3)：15-26.（**CSSCI扩展版**）
 
 - Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2，IF=3.6**）
 

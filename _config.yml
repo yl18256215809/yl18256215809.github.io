@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "杨正源"
+title                    : "叶蕾"
 description              : "复旦大学硕士在读"
 repository               : "yzy-15951553760/yzy-15951553760.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "杨正源"
+  name             : "叶蕾"
   avatar           : "images/头像.jpg"
   bio              : 
   location         : "上海，中国"

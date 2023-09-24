@@ -41,25 +41,17 @@ redirect_from:
 ## 已发表（录用）论文
 - 周文，**叶蕾**.数字经济与中国式现代化：理论逻辑和实践路径. ***消费经济***，2023(5)：1-10.（**CSSCI扩展版，北大核心**）
 
-- 黄敦平，**叶蕾**. 黄河流域经济高质量发展综合评价. ***统计与决策***，2021(6)：22-30.（**CSSCI，北大核心，中国知网学术精要高PCSI、高被引（131次）、高下载论文（10532次），2021年度“优秀论文”）**
+- 黄敦平，**叶蕾**. 黄河流域经济高质量发展综合评价. ***统计与决策***，2022(19):103-106.（**CSSCI，北大核心**）
   
-- 周文，**杨正源**. 高质量发展与共同富裕：理论逻辑和现实路径. ***西安财经大学学报***，2023(3)：15-26.（**CSSCI扩展版**）
+- Xu, X., **Ye, L**., Pei, Y., Zhao, L., & Wang, J. (2022). Research on the Comprehensive Evaluation of the Higher Education System Based on FCE and ARMA Models. ***Complexity***, 3142579.（**JCR Q2，IF=2.3**）
 
-- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2，IF=3.6**）
+- Bai, D. B., L. Ye, and **Z. Y. Yang** et al.(2022). Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***, 16.（**JCR Q2，IF=3.6**）
 
 
 
 ## 课题研究
-- 参与研究阐释党的二十大精神国家社科基金重大项目，“构建高水平社会主义市场经济体制的目标与重点任务研究”（2023ZD01050122），负责人：周文。参与研究报告撰写。<br>
-  
 - 参与教育部哲学社会科学研究重大课题攻关项目，“习近平经济思想的萌发、实践来源与重要特征研究”，2023，负责人：周文。参与研究报告撰写。（教育部习近平经济思想研究团队成员）<br>
-
-- 参与教育部人文社会科学研究专项，“基于习近平经济思想的新发展阶段缓释经济发展三重压力的路径研究”，2023，负责人：周文。参与研究报告撰写。（**第二参与人**）<br>
-
-- 参与复旦大学人文社科传世经典，“政治经济学发展历史研究”，2023，负责人：周文。参与研究报告撰写。 <br>
-
-- 参与中信改革发展研究基金会一般项目，“国际比较视角下中国产业政策发展研究”，2022，负责人：周文。参与研究报告撰写，同时参与专著撰写，《赶超：产业政策与强国之路》在2023年8月1日由天津人民出版社出版。【已结项】 <br>
-
+- 
 - 主持国家级大学生创新创业重点领域支持计划项目，“数字时代下城乡融合作用机理、现实挑战与实现路径（202110378001）”【已结项】。<br>
 
 ## 学术会议

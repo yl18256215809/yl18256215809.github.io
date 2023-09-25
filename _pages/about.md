@@ -45,7 +45,7 @@ redirect_from:
   
 - Xu, X., **Ye, L**., Pei, Y., Zhao, L., & Wang, J. (2022). Research on the Comprehensive Evaluation of the Higher Education System Based on FCE and ARMA Models. ***Complexity***, 3142579.（**JCR Q2，IF=2.3**）
 
-- Bai, D. B., L. Ye, and **Z. Y. Yang** et al.(2022). Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***, 16.（**JCR Q2，IF=3.6**）
+- Bai, D. B., **L. Ye**, and Z. Y. Yang et al.(2022). Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***, 16.（**JCR Q2，IF=3.6**）
 
 
 
